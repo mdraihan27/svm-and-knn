@@ -1,0 +1,19 @@
+# Microsoft Word temporary/lock files
+~$*.docx
+~$*.doc
+~$*.dotx
+~$*.dot
+
+# Office temporary files
+*.tmp
+*.temp
+
+# Word autosave/recovery files
+*.asd
+*.wbk
+
+# macOS Office temp files
+.DS_Store
+
+# Windows thumbnail/cache files
+Thumbs.db
